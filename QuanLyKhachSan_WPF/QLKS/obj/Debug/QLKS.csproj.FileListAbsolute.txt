@@ -1,0 +1,803 @@
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\DangNhap.g.cs
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\HoaDon.g.cs
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\MainWindow.g.cs
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\App.g.cs
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS_Content.g.cs
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS_MarkupCompile.cache
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS_MarkupCompile.lref
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\QLKS.exe.config
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\QLKS.exe
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\QLKS.pdb
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\CrystalDecisions.Shared.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\EntityFramework.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\FlashControlV71.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\log4net.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\MaterialDesignColors.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\SAPBusinessObjects.WPF.Viewer.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\System.Windows.Interactivity.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\EntityFramework.xml
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\log4net.xml
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\System.Windows.Interactivity.xml
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\cs\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\da\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\de\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\en\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\es\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fi\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fr\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\hu\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\it\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ja\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ko\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nb-NO\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nl\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pl\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pt\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ru\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sk\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sv\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\th\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\tr\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHS\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHT\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\cs\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\da\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\de\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\en\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\es\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fi\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fr\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\hu\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\it\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ja\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ko\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nb-NO\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nl\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pl\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pt\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ru\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sk\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sv\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\th\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\tr\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHS\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHT\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\DichVuReport.g.cs
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\KhachHangReport.g.cs
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\NamReport.g.cs
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\ThangReport.g.cs
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\App.baml
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\DangNhap.baml
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\DichVuReport.baml
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\HoaDon.baml
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\KhachHangReport.baml
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\MainWindow.baml
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\NamReport.baml
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\Resources\MainResources.baml
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\ThangReport.baml
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.g.resources
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.exe
+D:\CÔNG NGHỆ PHẦN MÊM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.pdb
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\DangNhap.g.cs
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\DichVuReport.g.cs
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\HoaDon.g.cs
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\KhachHangReport.g.cs
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\MainWindow.g.cs
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\NamReport.g.cs
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\ThangReport.g.cs
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\App.g.cs
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS_Content.g.cs
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS_MarkupCompile.cache
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS_MarkupCompile.lref
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.exe
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.pdb
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\App.baml
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\DangNhap.baml
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\DichVuReport.baml
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\HoaDon.baml
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\KhachHangReport.baml
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\MainWindow.baml
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\NamReport.baml
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\ThangReport.baml
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\QLKS.exe
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\QLKS.pdb
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\EntityFramework.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\FlashControlV71.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\log4net.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\MaterialDesignColors.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\SAPBusinessObjects.WPF.Viewer.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\EntityFramework.xml
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\log4net.xml
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\cs\SAPBusinessObjects.WPF.Viewer.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\da\SAPBusinessObjects.WPF.Viewer.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\de\SAPBusinessObjects.WPF.Viewer.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\en\SAPBusinessObjects.WPF.Viewer.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\es\SAPBusinessObjects.WPF.Viewer.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fi\SAPBusinessObjects.WPF.Viewer.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fr\SAPBusinessObjects.WPF.Viewer.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\hu\SAPBusinessObjects.WPF.Viewer.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\it\SAPBusinessObjects.WPF.Viewer.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ja\SAPBusinessObjects.WPF.Viewer.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ko\SAPBusinessObjects.WPF.Viewer.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nb-NO\SAPBusinessObjects.WPF.Viewer.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nl\SAPBusinessObjects.WPF.Viewer.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pl\SAPBusinessObjects.WPF.Viewer.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pt\SAPBusinessObjects.WPF.Viewer.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ru\SAPBusinessObjects.WPF.Viewer.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sk\SAPBusinessObjects.WPF.Viewer.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sv\SAPBusinessObjects.WPF.Viewer.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\th\SAPBusinessObjects.WPF.Viewer.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\tr\SAPBusinessObjects.WPF.Viewer.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHS\SAPBusinessObjects.WPF.Viewer.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHT\SAPBusinessObjects.WPF.Viewer.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\cs\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\da\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\de\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\en\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\es\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fi\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fr\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\hu\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\it\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ja\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ko\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nb-NO\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nl\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pl\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pt\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ru\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sk\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sv\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\th\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\tr\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHS\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHT\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\Resources\MainResources.baml
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.g.resources
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\My PC\Downloads\Compressed\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\QLKS.exe.config
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\QLKS.exe
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\QLKS.pdb
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\CrystalDecisions.Shared.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\EntityFramework.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\FlashControlV71.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\log4net.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\MaterialDesignColors.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\Microsoft.Expression.Interactions.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\SAPBusinessObjects.WPF.Viewer.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\System.Windows.Interactivity.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\EntityFramework.xml
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\log4net.xml
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\Microsoft.Expression.Interactions.xml
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\System.Windows.Interactivity.xml
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\cs\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\da\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\de\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\en\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\es\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fi\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fr\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\hu\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\it\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ja\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ko\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nb-NO\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nl\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pl\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pt\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ru\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sk\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sv\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\th\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\tr\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHS\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHT\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\cs\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\da\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\de\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\en\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\es\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fi\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fr\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\hu\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\it\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ja\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ko\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nb-NO\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nl\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pl\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pt\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ru\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sk\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sv\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\th\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\tr\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHS\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHT\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\DangNhap.g.cs
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\HoaDon.g.cs
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\KhachHangReport.g.cs
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\MainWindow.g.cs
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\App.g.cs
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS_Content.g.cs
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS_MarkupCompile.cache
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS_MarkupCompile.lref
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\App.baml
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\DangNhap.baml
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\HoaDon.baml
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\KhachHangReport.baml
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\MainWindow.baml
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\Resources\MainResources.baml
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.g.resources
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.exe
+F:\IT\Năm 3\CNPM\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.pdb
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\QLKS.exe.config
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\QLKS.exe
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\QLKS.pdb
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\CrystalDecisions.Shared.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\EntityFramework.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\FlashControlV71.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\log4net.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\MaterialDesignColors.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\Microsoft.Expression.Interactions.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\SAPBusinessObjects.WPF.Viewer.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\System.Windows.Interactivity.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\EntityFramework.xml
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\log4net.xml
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\Microsoft.Expression.Interactions.xml
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\System.Windows.Interactivity.xml
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\cs\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\da\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\de\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\en\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\es\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fi\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fr\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\hu\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\it\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ja\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ko\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nb-NO\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nl\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pl\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pt\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ru\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sk\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sv\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\th\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\tr\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHS\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHT\SAPBusinessObjects.WPF.Viewer.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\cs\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\da\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\de\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\en\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\es\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fi\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fr\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\hu\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\it\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ja\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ko\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nb-NO\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nl\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pl\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pt\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ru\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sk\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sv\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\th\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\tr\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHS\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHT\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\DangNhap.g.cs
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\DichVuReport.g.cs
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\HoaDon.g.cs
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\KhachHangReport.g.cs
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\MainWindow.g.cs
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\NamReport.g.cs
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\ThangReport.g.cs
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\App.g.cs
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS_Content.g.cs
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS_MarkupCompile.cache
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS_MarkupCompile.lref
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\App.baml
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\DangNhap.baml
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\DichVuReport.baml
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\HoaDon.baml
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\KhachHangReport.baml
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\MainWindow.baml
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\NamReport.baml
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\Resources\MainResources.baml
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\ThangReport.baml
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.g.resources
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.exe
+F:\IT\Hotel-Management-master1\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.pdb
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\QLKS.exe.config
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\QLKS.exe
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\QLKS.pdb
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\CrystalDecisions.Shared.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\EntityFramework.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\FlashControlV71.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\log4net.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\MaterialDesignColors.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\SAPBusinessObjects.WPF.Viewer.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\System.Windows.Interactivity.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\EntityFramework.xml
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\log4net.xml
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\System.Windows.Interactivity.xml
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\cs\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\da\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\de\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\en\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\es\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fi\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fr\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\hu\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\it\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ja\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ko\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nb-NO\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nl\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pl\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pt\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ru\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sk\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sv\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\th\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\tr\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHS\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHT\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\cs\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\da\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\de\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\en\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\es\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fi\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\fr\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\hu\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\it\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ja\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ko\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nb-NO\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\nl\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pl\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\pt\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\ru\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sk\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\sv\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\th\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\tr\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHS\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\bin\Debug\zh-CHT\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\DangNhap.g.cs
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\HoaDon.g.cs
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\KhachHangReport.g.cs
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\MainWindow.g.cs
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\App.g.cs
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS_Content.g.cs
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS_MarkupCompile.cache
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS_MarkupCompile.lref
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\App.baml
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\DangNhap.baml
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\HoaDon.baml
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\KhachHangReport.baml
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\MainWindow.baml
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\Resources\MainResources.baml
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.g.resources
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.exe
+D:\CNPM\Hotel-Management-master\QuanLyKhachSan_WPF\QLKS\obj\Debug\QLKS.pdb

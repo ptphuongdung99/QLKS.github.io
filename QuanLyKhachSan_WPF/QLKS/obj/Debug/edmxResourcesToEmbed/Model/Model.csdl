@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLKS_IS201Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="QLKS_IS201Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CHITIET_HDAU" EntityType="QLKS_IS201Model.CHITIET_HDAU" />
+    <EntitySet Name="CHITIET_HDGU" EntityType="QLKS_IS201Model.CHITIET_HDGU" />
+    <EntitySet Name="CHITIET_HDLT" EntityType="QLKS_IS201Model.CHITIET_HDLT" />
+    <EntitySet Name="HOADON" EntityType="QLKS_IS201Model.HOADON" />
+    <EntitySet Name="KHACHHANG" EntityType="QLKS_IS201Model.KHACHHANG" />
+    <EntitySet Name="LOAIGIATUI" EntityType="QLKS_IS201Model.LOAIGIATUI" />
+    <EntitySet Name="LOAIPHONG" EntityType="QLKS_IS201Model.LOAIPHONG" />
+    <EntitySet Name="LUOTGIATUI" EntityType="QLKS_IS201Model.LUOTGIATUI" />
+    <EntitySet Name="MATHANG" EntityType="QLKS_IS201Model.MATHANG" />
+    <EntitySet Name="NHANVIEN" EntityType="QLKS_IS201Model.NHANVIEN" />
+    <EntitySet Name="PHONG" EntityType="QLKS_IS201Model.PHONG" />
+    <EntitySet Name="sysdiagrams" EntityType="QLKS_IS201Model.sysdiagrams" />
+    <EntitySet Name="TAIKHOAN" EntityType="QLKS_IS201Model.TAIKHOAN" />
+    <AssociationSet Name="FK_CHITIET__CHITIET_H_MATHANG" Association="QLKS_IS201Model.FK_CHITIET__CHITIET_H_MATHANG">
+      <End Role="MATHANG" EntitySet="MATHANG" />
+      <End Role="CHITIET_HDAU" EntitySet="CHITIET_HDAU" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CHITIET_HDAU_HOADON" Association="QLKS_IS201Model.FK_CHITIET_HDAU_HOADON">
+      <End Role="HOADON" EntitySet="HOADON" />
+      <End Role="CHITIET_HDAU" EntitySet="CHITIET_HDAU" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CHITIET__CHITIET_H_LUOTGIAT" Association="QLKS_IS201Model.FK_CHITIET__CHITIET_H_LUOTGIAT">
+      <End Role="LUOTGIATUI" EntitySet="LUOTGIATUI" />
+      <End Role="CHITIET_HDGU" EntitySet="CHITIET_HDGU" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CHITIET_HDGU_HOADON" Association="QLKS_IS201Model.FK_CHITIET_HDGU_HOADON">
+      <End Role="HOADON" EntitySet="HOADON" />
+      <End Role="CHITIET_HDGU" EntitySet="CHITIET_HDGU" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CHITIET__CHITIET_H_PHONG" Association="QLKS_IS201Model.FK_CHITIET__CHITIET_H_PHONG">
+      <End Role="PHONG" EntitySet="PHONG" />
+      <End Role="CHITIET_HDLT" EntitySet="CHITIET_HDLT" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CHITIET_HDLT_HOADON" Association="QLKS_IS201Model.FK_CHITIET_HDLT_HOADON">
+      <End Role="HOADON" EntitySet="HOADON" />
+      <End Role="CHITIET_HDLT" EntitySet="CHITIET_HDLT" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HOADON_CO_HD_KHACHHAN" Association="QLKS_IS201Model.FK_HOADON_CO_HD_KHACHHAN">
+      <End Role="KHACHHANG" EntitySet="KHACHHANG" />
+      <End Role="HOADON" EntitySet="HOADON" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HOADON_LAP_HD_NHANVIEN" Association="QLKS_IS201Model.FK_HOADON_LAP_HD_NHANVIEN">
+      <End Role="NHANVIEN" EntitySet="NHANVIEN" />
+      <End Role="HOADON" EntitySet="HOADON" />
+    </AssociationSet>
+    <AssociationSet Name="FK_LUOTGIAT_CO_LOAIGU_LOAIGIAT" Association="QLKS_IS201Model.FK_LUOTGIAT_CO_LOAIGU_LOAIGIAT">
+      <End Role="LOAIGIATUI" EntitySet="LOAIGIATUI" />
+      <End Role="LUOTGIATUI" EntitySet="LUOTGIATUI" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PHONG_CO_LP_LOAIPHON" Association="QLKS_IS201Model.FK_PHONG_CO_LP_LOAIPHON">
+      <End Role="LOAIPHONG" EntitySet="LOAIPHONG" />
+      <End Role="PHONG" EntitySet="PHONG" />
+    </AssociationSet>
+    <AssociationSet Name="FK_NHANVIEN_CO_TK_TAIKHOAN" Association="QLKS_IS201Model.FK_NHANVIEN_CO_TK_TAIKHOAN">
+      <End Role="TAIKHOAN" EntitySet="TAIKHOAN" />
+      <End Role="NHANVIEN" EntitySet="NHANVIEN" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="CHITIET_HDAU">
+    <Key>
+      <PropertyRef Name="MA_CTHDAU" />
+    </Key>
+    <Property Name="MA_CTHDAU" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MA_HD" Type="Int32" Nullable="false" />
+    <Property Name="MA_MH" Type="Int32" Nullable="false" />
+    <Property Name="SOLUONG_MH" Type="Int32" />
+    <Property Name="TRIGIA_CTHDAU" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="THOIGIANLAP_CTHDAU" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="MATHANG" Relationship="QLKS_IS201Model.FK_CHITIET__CHITIET_H_MATHANG" FromRole="CHITIET_HDAU" ToRole="MATHANG" />
+    <NavigationProperty Name="HOADON" Relationship="QLKS_IS201Model.FK_CHITIET_HDAU_HOADON" FromRole="CHITIET_HDAU" ToRole="HOADON" />
+  </EntityType>
+  <EntityType Name="CHITIET_HDGU">
+    <Key>
+      <PropertyRef Name="MA_CTHDGU" />
+    </Key>
+    <Property Name="MA_CTHDGU" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MA_HD" Type="Int32" Nullable="false" />
+    <Property Name="MA_LUOTGU" Type="Int32" Nullable="false" />
+    <Property Name="TRIGIA_CTHDGU" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="THOIGIANLAP_CTHDGU" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="LUOTGIATUI" Relationship="QLKS_IS201Model.FK_CHITIET__CHITIET_H_LUOTGIAT" FromRole="CHITIET_HDGU" ToRole="LUOTGIATUI" />
+    <NavigationProperty Name="HOADON" Relationship="QLKS_IS201Model.FK_CHITIET_HDGU_HOADON" FromRole="CHITIET_HDGU" ToRole="HOADON" />
+  </EntityType>
+  <EntityType Name="CHITIET_HDLT">
+    <Key>
+      <PropertyRef Name="MA_CTHDLT" />
+    </Key>
+    <Property Name="MA_CTHDLT" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MA_HD" Type="Int32" Nullable="false" />
+    <Property Name="MA_PHONG" Type="Int32" Nullable="false" />
+    <Property Name="THOIGIANNHAN_PHONG" Type="DateTime" Precision="0" />
+    <Property Name="THOIGIANTRA_PHONG" Type="DateTime" Precision="0" />
+    <Property Name="TRIGIA_CTHDLT" Type="Decimal" Precision="19" Scale="4" />
+    <NavigationProperty Name="PHONG" Relationship="QLKS_IS201Model.FK_CHITIET__CHITIET_H_PHONG" FromRole="CHITIET_HDLT" ToRole="PHONG" />
+    <NavigationProperty Name="HOADON" Relationship="QLKS_IS201Model.FK_CHITIET_HDLT_HOADON" FromRole="CHITIET_HDLT" ToRole="HOADON" />
+  </EntityType>
+  <EntityType Name="HOADON">
+    <Key>
+      <PropertyRef Name="MA_HD" />
+    </Key>
+    <Property Name="MA_HD" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MA_NV" Type="Int32" Nullable="false" />
+    <Property Name="MA_KH" Type="Int32" Nullable="false" />
+    <Property Name="THOIGIANLAP_HD" Type="DateTime" Precision="0" />
+    <Property Name="TINHTRANG_HD" Type="Boolean" />
+    <Property Name="TRIGIA_HD" Type="Decimal" Precision="19" Scale="4" />
+    <NavigationProperty Name="CHITIET_HDAU" Relationship="QLKS_IS201Model.FK_CHITIET_HDAU_HOADON" FromRole="HOADON" ToRole="CHITIET_HDAU" />
+    <NavigationProperty Name="CHITIET_HDGU" Relationship="QLKS_IS201Model.FK_CHITIET_HDGU_HOADON" FromRole="HOADON" ToRole="CHITIET_HDGU" />
+    <NavigationProperty Name="CHITIET_HDLT" Relationship="QLKS_IS201Model.FK_CHITIET_HDLT_HOADON" FromRole="HOADON" ToRole="CHITIET_HDLT" />
+    <NavigationProperty Name="KHACHHANG" Relationship="QLKS_IS201Model.FK_HOADON_CO_HD_KHACHHAN" FromRole="HOADON" ToRole="KHACHHANG" />
+    <NavigationProperty Name="NHANVIEN" Relationship="QLKS_IS201Model.FK_HOADON_LAP_HD_NHANVIEN" FromRole="HOADON" ToRole="NHANVIEN" />
+  </EntityType>
+  <EntityType Name="KHACHHANG">
+    <Key>
+      <PropertyRef Name="MA_KH" />
+    </Key>
+    <Property Name="MA_KH" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="HOTEN_KH" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="SODIENTHOAI_KH" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Name="CMND_KH" Type="String" MaxLength="12" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="HOADON" Relationship="QLKS_IS201Model.FK_HOADON_CO_HD_KHACHHAN" FromRole="KHACHHANG" ToRole="HOADON" />
+  </EntityType>
+  <EntityType Name="LOAIGIATUI">
+    <Key>
+      <PropertyRef Name="MA_LOAIGU" />
+    </Key>
+    <Property Name="MA_LOAIGU" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TEN_LOAIGU" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="DONGIA_LOAIGU" Type="Decimal" Precision="19" Scale="4" />
+    <NavigationProperty Name="LUOTGIATUI" Relationship="QLKS_IS201Model.FK_LUOTGIAT_CO_LOAIGU_LOAIGIAT" FromRole="LOAIGIATUI" ToRole="LUOTGIATUI" />
+  </EntityType>
+  <EntityType Name="LOAIPHONG">
+    <Key>
+      <PropertyRef Name="MA_LP" />
+    </Key>
+    <Property Name="MA_LP" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TEN_LP" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="DONGIA_LP" Type="Decimal" Precision="19" Scale="4" />
+    <NavigationProperty Name="PHONG" Relationship="QLKS_IS201Model.FK_PHONG_CO_LP_LOAIPHON" FromRole="LOAIPHONG" ToRole="PHONG" />
+  </EntityType>
+  <EntityType Name="LUOTGIATUI">
+    <Key>
+      <PropertyRef Name="MA_LUOTGU" />
+    </Key>
+    <Property Name="MA_LUOTGU" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MA_LOAIGU" Type="Int32" Nullable="false" />
+    <Property Name="SOKILOGRAM_LUOTGU" Type="Int32" />
+    <Property Name="NGAYBATDAU_LUOTGU" Type="DateTime" Precision="0" />
+    <Property Name="NGAYKETTHUC_LUOTGU" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="CHITIET_HDGU" Relationship="QLKS_IS201Model.FK_CHITIET__CHITIET_H_LUOTGIAT" FromRole="LUOTGIATUI" ToRole="CHITIET_HDGU" />
+    <NavigationProperty Name="LOAIGIATUI" Relationship="QLKS_IS201Model.FK_LUOTGIAT_CO_LOAIGU_LOAIGIAT" FromRole="LUOTGIATUI" ToRole="LOAIGIATUI" />
+  </EntityType>
+  <EntityType Name="MATHANG">
+    <Key>
+      <PropertyRef Name="MA_MH" />
+    </Key>
+    <Property Name="MA_MH" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TEN_MH" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="DONGIA_MH" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="NGAYNHAP_MH" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="CHITIET_HDAU" Relationship="QLKS_IS201Model.FK_CHITIET__CHITIET_H_MATHANG" FromRole="MATHANG" ToRole="CHITIET_HDAU" />
+  </EntityType>
+  <EntityType Name="NHANVIEN">
+    <Key>
+      <PropertyRef Name="MA_NV" />
+    </Key>
+    <Property Name="MA_NV" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MA_TK" Type="Int32" Nullable="false" />
+    <Property Name="HOTEN_NV" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="GIOITINH_NV" Type="Boolean" />
+    <Property Name="NGAYSINH_NV" Type="DateTime" Precision="0" />
+    <Property Name="SODIENTHOAI_NV" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Name="CHUCVU_NV" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="DIACHI_NV" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="NGAYVAOLAM_NV" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="HOADON" Relationship="QLKS_IS201Model.FK_HOADON_LAP_HD_NHANVIEN" FromRole="NHANVIEN" ToRole="HOADON" />
+    <NavigationProperty Name="TAIKHOAN" Relationship="QLKS_IS201Model.FK_NHANVIEN_CO_TK_TAIKHOAN" FromRole="NHANVIEN" ToRole="TAIKHOAN" />
+  </EntityType>
+  <EntityType Name="PHONG">
+    <Key>
+      <PropertyRef Name="MA_PHONG" />
+    </Key>
+    <Property Name="MA_PHONG" Type="Int32" Nullable="false" />
+    <Property Name="MA_LP" Type="Int32" Nullable="false" />
+    <Property Name="TINHTRANG_PHONG" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="CHITIET_HDLT" Relationship="QLKS_IS201Model.FK_CHITIET__CHITIET_H_PHONG" FromRole="PHONG" ToRole="CHITIET_HDLT" />
+    <NavigationProperty Name="LOAIPHONG" Relationship="QLKS_IS201Model.FK_PHONG_CO_LP_LOAIPHON" FromRole="PHONG" ToRole="LOAIPHONG" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TAIKHOAN">
+    <Key>
+      <PropertyRef Name="MA_TK" />
+    </Key>
+    <Property Name="MA_TK" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TENDANGNHAP_TK" Type="String" MaxLength="32" FixedLength="false" Unicode="true" />
+    <Property Name="MATKHAU_TK" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="NHANVIEN" Relationship="QLKS_IS201Model.FK_NHANVIEN_CO_TK_TAIKHOAN" FromRole="TAIKHOAN" ToRole="NHANVIEN" />
+  </EntityType>
+  <Association Name="FK_CHITIET__CHITIET_H_MATHANG">
+    <End Type="QLKS_IS201Model.MATHANG" Role="MATHANG" Multiplicity="1" />
+    <End Type="QLKS_IS201Model.CHITIET_HDAU" Role="CHITIET_HDAU" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MATHANG">
+        <PropertyRef Name="MA_MH" />
+      </Principal>
+      <Dependent Role="CHITIET_HDAU">
+        <PropertyRef Name="MA_MH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CHITIET_HDAU_HOADON">
+    <End Type="QLKS_IS201Model.HOADON" Role="HOADON" Multiplicity="1" />
+    <End Type="QLKS_IS201Model.CHITIET_HDAU" Role="CHITIET_HDAU" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HOADON">
+        <PropertyRef Name="MA_HD" />
+      </Principal>
+      <Dependent Role="CHITIET_HDAU">
+        <PropertyRef Name="MA_HD" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CHITIET__CHITIET_H_LUOTGIAT">
+    <End Type="QLKS_IS201Model.LUOTGIATUI" Role="LUOTGIATUI" Multiplicity="1" />
+    <End Type="QLKS_IS201Model.CHITIET_HDGU" Role="CHITIET_HDGU" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LUOTGIATUI">
+        <PropertyRef Name="MA_LUOTGU" />
+      </Principal>
+      <Dependent Role="CHITIET_HDGU">
+        <PropertyRef Name="MA_LUOTGU" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CHITIET_HDGU_HOADON">
+    <End Type="QLKS_IS201Model.HOADON" Role="HOADON" Multiplicity="1" />
+    <End Type="QLKS_IS201Model.CHITIET_HDGU" Role="CHITIET_HDGU" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HOADON">
+        <PropertyRef Name="MA_HD" />
+      </Principal>
+      <Dependent Role="CHITIET_HDGU">
+        <PropertyRef Name="MA_HD" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CHITIET__CHITIET_H_PHONG">
+    <End Type="QLKS_IS201Model.PHONG" Role="PHONG" Multiplicity="1" />
+    <End Type="QLKS_IS201Model.CHITIET_HDLT" Role="CHITIET_HDLT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PHONG">
+        <PropertyRef Name="MA_PHONG" />
+      </Principal>
+      <Dependent Role="CHITIET_HDLT">
+        <PropertyRef Name="MA_PHONG" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CHITIET_HDLT_HOADON">
+    <End Type="QLKS_IS201Model.HOADON" Role="HOADON" Multiplicity="1" />
+    <End Type="QLKS_IS201Model.CHITIET_HDLT" Role="CHITIET_HDLT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HOADON">
+        <PropertyRef Name="MA_HD" />
+      </Principal>
+      <Dependent Role="CHITIET_HDLT">
+        <PropertyRef Name="MA_HD" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HOADON_CO_HD_KHACHHAN">
+    <End Type="QLKS_IS201Model.KHACHHANG" Role="KHACHHANG" Multiplicity="1" />
+    <End Type="QLKS_IS201Model.HOADON" Role="HOADON" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KHACHHANG">
+        <PropertyRef Name="MA_KH" />
+      </Principal>
+      <Dependent Role="HOADON">
+        <PropertyRef Name="MA_KH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HOADON_LAP_HD_NHANVIEN">
+    <End Type="QLKS_IS201Model.NHANVIEN" Role="NHANVIEN" Multiplicity="1" />
+    <End Type="QLKS_IS201Model.HOADON" Role="HOADON" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NHANVIEN">
+        <PropertyRef Name="MA_NV" />
+      </Principal>
+      <Dependent Role="HOADON">
+        <PropertyRef Name="MA_NV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_LUOTGIAT_CO_LOAIGU_LOAIGIAT">
+    <End Type="QLKS_IS201Model.LOAIGIATUI" Role="LOAIGIATUI" Multiplicity="1" />
+    <End Type="QLKS_IS201Model.LUOTGIATUI" Role="LUOTGIATUI" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LOAIGIATUI">
+        <PropertyRef Name="MA_LOAIGU" />
+      </Principal>
+      <Dependent Role="LUOTGIATUI">
+        <PropertyRef Name="MA_LOAIGU" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PHONG_CO_LP_LOAIPHON">
+    <End Type="QLKS_IS201Model.LOAIPHONG" Role="LOAIPHONG" Multiplicity="1" />
+    <End Type="QLKS_IS201Model.PHONG" Role="PHONG" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LOAIPHONG">
+        <PropertyRef Name="MA_LP" />
+      </Principal>
+      <Dependent Role="PHONG">
+        <PropertyRef Name="MA_LP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_NHANVIEN_CO_TK_TAIKHOAN">
+    <End Type="QLKS_IS201Model.TAIKHOAN" Role="TAIKHOAN" Multiplicity="1" />
+    <End Type="QLKS_IS201Model.NHANVIEN" Role="NHANVIEN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TAIKHOAN">
+        <PropertyRef Name="MA_TK" />
+      </Principal>
+      <Dependent Role="NHANVIEN">
+        <PropertyRef Name="MA_TK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
